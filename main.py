@@ -1,0 +1,1 @@
+nums = [num for num in range(1,5)]
